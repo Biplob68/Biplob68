@@ -2,6 +2,7 @@
 
 ![Biplob's GitHub stats](https://github-readme-stats.vercel.app/api?username=Biplob68&hide=stars&show_icons=true&theme=radical&count_private=true)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Biplob68&repo=Biplob68)](https://github.com/Biplob68/Biplob68)
 
 <!--
 **Biplob68/Biplob68** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
