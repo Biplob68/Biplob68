@@ -1,12 +1,9 @@
 ### Hi, I am Biplob. 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Biplob68&layout=compact&exclude_repo=Smart-Recruitment-System&langs_count=6&hide=javascript,CSS,SCSS,)](https://github.com/Biplob68/Biplob68)
-
-
 ![Biplob's GitHub stats](https://github-readme-stats.vercel.app/api?username=Biplob68&hide=stars&show_icons=true&theme=radical&count_private=true)
 
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Biplob68&layout=compact&exclude_repo=Smart-Recruitment-System&langs_count=6&hide=javascript,CSS,SCSS,)](https://github.com/Biplob68/Biplob68)
 
 
 
