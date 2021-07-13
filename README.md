@@ -1,6 +1,6 @@
 ### Hi, I am Biplob. 👋
 
-[![Biplob's GitHub stats](https://github-readme-stats.vercel.app/api?username=Biplob68)](https://github.com/anuraghazra/github-readme-stats)
+![Biplob's GitHub stats](https://github-readme-stats.vercel.app/api?username=Biplob68&hide=stars&show_icons=true&theme=radical&count_private=true)
 
 
 <!--
