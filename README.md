@@ -1,5 +1,4 @@
 ### Hi, How are You?. 👋   
-#### I am Biplob Mina. I am a student of Shahjalal University of Science and Technology, Sylhet.
 ![Profile views](https://gpvc.arturio.dev/Biplob68)  
 
 
