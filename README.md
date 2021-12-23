@@ -13,8 +13,8 @@ Linkedin : [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/link
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](biplob68@student.sust.edu) 
 -->
 
-<!-- to add extra repo
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Biplob68&repo=Biplob68)](https://github.com/Biplob68/Biplob68) -->
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Biplob68&repo=Event-Managemant-App)](https://github.com/Biplob68/Event-Managemant-App) 
 
 <!--
 For github readme !
