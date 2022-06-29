@@ -3,7 +3,7 @@
 ### About Me:
 _Self-motivated with in-depth knowledge of programming language, object-oriented programming, data structure, and software development tools. I am interested in Backend technologies and always try to learn new technology and improve my skills. Currently working on Spring Boot, Spring Security, Spring Boot Test._
 
-   =======  Technical Skill   ========= 
+### Technical Skill :
 
  * Deep knowledge of OOP, Data Structures, Algorithms, Database Design and Design Patterns.
  * Programming Language: C/C++, Java, Python, SQL
